@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var currentFloor = 2;// текущий этаж
-  var floorPath = $('.home-image path'); // каждый отдельный этаж в SVG
+  var floorPath = $('.floor-image path'); // каждый отдельный этаж в SVG
   var counterUp = $('.counter-up'); // кнопка увеличения этажа
   var counterDown = $('.counter-down'); // кнопка уменьшения этажа
   var modal = $('.modal'); // модальное окно

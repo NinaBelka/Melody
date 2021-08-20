@@ -101,12 +101,12 @@ input:active,
   margin-bottom: 100px;
 }
 
-.home-image path {
+.floor-image path {
   opacity: 0;
   cursor: pointer;
 }
 
-.home-image path:hover {
+.floor-image path:hover {
   opacity: 1;
 }
 
